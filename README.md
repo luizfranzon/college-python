@@ -32,5 +32,13 @@
       </a>
       </td>
     </tr>
+    <tr>
+      <td>27/08</td>
+      <td>
+      <a href="https://github.com/luizfranzon/college-python/tree/main/aulas/04-dia27do8">
+        Link
+      </a>
+      </td>
+    </tr>
   </tbody>
 </table>
